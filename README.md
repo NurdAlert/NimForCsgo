@@ -4,7 +4,7 @@
 
 # How do I get nim?
 
-go to httpsL//nim-lang.org/ and download the 64 bit version of nim. MAKE SURE YOU HAVE A WORKING NIM INSTALL
+go to https://nim-lang.org/ and download the 64 bit version of nim. MAKE SURE YOU HAVE A WORKING NIM INSTALL
 
 # What does this file do?
 
