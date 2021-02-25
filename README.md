@@ -8,7 +8,7 @@ go to https://nim-lang.org/ and download the 64 bit version of nim. MAKE SURE YO
 
 # What does this file do?
 
-this file includes everything needed to make a dll to inject into csgo!
+it makes it so you can compile a 32 bit dll to inject into csgo, or any 32 bit program!
 
 # How do I use this file?
 
